@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Lets Connect with him with these tinni tiny links <img src= https://media.tenor.com/images/e75037346ff3857ed704f9ebdcee1727/tenor.gif  width=20px> :-
+#### Firstly, Lets Connect with him with these tinni tiny links <img src= https://media.tenor.com/images/e75037346ff3857ed704f9ebdcee1727/tenor.gif  width=20px> :-
 <a href="https://www.linkedin.com/in/adityagarg00/" target="_blank" rel="noopener noreferrer"> LinkedIn <img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg width=20px/> 
 </a>
 <a href="https://twitter.com/adityagarg00/" target="_blank" rel="noopener noreferrer"> Twitter <img src=http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png width=20px/> 
@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 #### Here you can find his stats :-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AdityaGarg00&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGarg00&langs_count=3&theme=tokyonight)]()
+
+#### I am still Under development
