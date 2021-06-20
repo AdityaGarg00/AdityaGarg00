@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Lets Connect with him with these tinni tiny links :-
+#### Lets Connect with him with these tinni tiny links 😁 :-
 <a href="https://www.linkedin.com/in/adityagarg00/" target="_blank" rel="noopener noreferrer"> LinkedIn <img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg width=20px/> 
 </a>
 <a href="https://twitter.com/adityagarg00/" target="_blank" rel="noopener noreferrer"> Twitter <img src=http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png width=20px/> 
