@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 #### Here you can find his stats :-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AdityaGarg00&count_private=true&theme=graywhite&showicons=true&height=40)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGarg00&langs_count=3&theme=graywhite)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaGarg00&theme=graywhite)](https://github.com/AdityaGarg00/github-profile-trophy)
 <br>
 [![My Github Profile Views](https://komarev.com/ghpvc/?username=AdityaGarg00&theme=graywhite)]()
 <a href="https://paypal.me/AdityaGarg00" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 120px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 2px 3px 2px 0px rgba(190, 190, 180, 0.5) !important;" ></a>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaGarg00&theme=graywhite)](https://github.com/AdityaGarg00/github-profile-trophy)
-
