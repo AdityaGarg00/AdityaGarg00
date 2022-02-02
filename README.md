@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <br>
 [![My Github Profile Views](https://komarev.com/ghpvc/?username=AdityaGarg00&theme=graywhite)]()
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdityaGarg00&theme=graywhite)](https://github.com/AdityaGarg00/github-profile-trophy)
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](paytm.com/8146441404@paytm)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://paypal.me/AdityaGarg00)
