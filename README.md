@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/adityagarg00" target="_blank" rel="noopener noreferrer"> Facebook <img src=https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png width=20px/> 
 </a>
 #### Here you can find his stats :-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AdityaGarg00&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGarg00&langs_count=3&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AdityaGarg00&count_private=true&theme=graywhite&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGarg00&langs_count=3&theme=graywhite)]()
 <br>
-[![My Github Profile Views](https://komarev.com/ghpvc/?username=AdityaGarg00&theme=tokyonight)]()
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaGarg00)](https://github.com/AdityaGarg00/github-profile-trophy)
+[![My Github Profile Views](https://komarev.com/ghpvc/?username=AdityaGarg00&theme=graywhite)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaGarg00&theme=graywhite)](https://github.com/AdityaGarg00/github-profile-trophy)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](paytm.com/8146441404@paytm)
