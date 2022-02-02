@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGarg00&langs_count=3&theme=tokyonight)]()
 <br>
 [![My Github Profile Views](https://komarev.com/ghpvc/?username=AdityaGarg00&theme=tokyonight)]()
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaGarg00)](https://github.com/AdityaGarg00/github-profile-trophy)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](paytm.com/8146441404@paytm)
