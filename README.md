@@ -1,4 +1,4 @@
-### Hi there👋 , I am Aditya's read me repository 👨‍💻. I contain a lots of information about him 👨‍💻. So, put on your seatbealts and lets 🏎️ into the 🌏 of information regarding Aditya <img src= https://media.tenor.com/images/67c179763027482922c8af0943b13a09/tenor.gif  width=1px>
+### Hi there👋 , I am Aditya's read me repository 👨‍💻. I contain a lots of information about him 👨‍💻. So, put on your seatbealts and lets 🏎️ into the 🌏 of information regarding Aditya.
 
 <!--
 **AdityaGarg00/AdityaGarg00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
